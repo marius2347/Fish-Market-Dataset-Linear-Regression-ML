@@ -1,6 +1,7 @@
 <h1> Diamonds Dataset Regression ML - Python Project</h1>
 <br>
 <h2>Features</h2>
+<li>OpenML Dataset</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
