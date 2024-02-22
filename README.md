@@ -6,6 +6,7 @@
 <li>Splitting train set 80% & test set 20%</li>
 <li>Correlations between features</li>
 <li>Correlations as scatter plots</li>
+<li>The most correlated features</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
