@@ -1,4 +1,4 @@
-<h1> Diamonds Dataset Regression ML - Python Project</h1>
+<h1> Fish Market Dataset Regression ML - Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>OpenML Dataset</li>
