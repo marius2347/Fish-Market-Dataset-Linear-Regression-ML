@@ -9,7 +9,7 @@
 
 
 <h2>Photo</h2>
-<img src="image.png">
+<img src="photo.png">
 <br>
 
 
