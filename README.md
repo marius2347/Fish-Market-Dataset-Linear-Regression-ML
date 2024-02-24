@@ -7,6 +7,9 @@
 <li>Correlations between features</li>
 <li>Correlations as scatter plots</li>
 <li>The most correlated features</li>
+<li>One Hot Encoder</li>
+<li>SimpleImputer for creating NumPy Array from DataFrame</li>
+
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
