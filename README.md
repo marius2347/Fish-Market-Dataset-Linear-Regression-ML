@@ -9,7 +9,11 @@
 <li>The most correlated features</li>
 <li>One Hot Encoder</li>
 <li>SimpleImputer for creating NumPy Array from DataFrame</li>
-
+<li>Unsupervised Learning Problem</li>
+<li>Clustering Algorithms to group similar fishes based on their lengths, widhts, heights => K-means clustering</li>
+<li>5 clusters used, trained the model</li>
+<li>Predicted weight of each fish has been added</li>
+<li>Visualize the clusters in a 3D form</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
