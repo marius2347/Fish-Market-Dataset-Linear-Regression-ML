@@ -10,9 +10,9 @@
 <li>One Hot Encoder</li>
 <li>SimpleImputer for creating NumPy Array from DataFrame</li>
 <li>Unsupervised Learning Problem</li>
-<li>Clustering Algorithms to group similar fishes based on their lengths, widhts, heights => K-means clustering</li>
+<li>K-Means Clustering</li>
 <li>5 clusters used, trained the model</li>
-<li>Predicted weight of each fish has been added</li>
+<li>Predicted weight of each fish has been added to Dataset</li>
 <li>Visualize the clusters in a 3D form</li>
 <h2>Acknowledgments</h2>
 
