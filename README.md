@@ -14,6 +14,7 @@
 <li>5 clusters used, trained the model</li>
 <li>Predicted weight of each fish has been added to Dataset</li>
 <li>Visualize the clusters in a 3D form</li>
+<li>Training testing using Silhouette Score to check for overfitting</li>
 <h2>Acknowledgments</h2>
 
 <b> Python3: http://bit.ly/python3-certifications <b>
